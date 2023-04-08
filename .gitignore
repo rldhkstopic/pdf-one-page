@@ -1,2 +1,2 @@
-pdfs/
-outputs/
+pdfs/*.pdf
+outputs/*.pdf
